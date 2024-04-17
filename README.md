@@ -1,6 +1,14 @@
 ShadowsocksR
 ===========
 
+New install
+------
+
+run the "ssr.sh":
+
+    bash ssr.sh
+
+
 [![Build Status]][Travis CI]
 
 A fast tunnel proxy that helps you bypass firewalls.
